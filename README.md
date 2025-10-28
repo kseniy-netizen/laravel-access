@@ -1,8 +1,6 @@
 # Практическая работа №6 — Laravel: доступ и сессии
 
 ## Установка проекта
-
-`bash
 composer install
 cp .env.example .env
 php artisan key:generate
